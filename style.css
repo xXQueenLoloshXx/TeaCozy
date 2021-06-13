@@ -1,23 +1,34 @@
 body {
-	background-color: slateblue;
+	background-color: black;
+	font-size: 22px;
+	color: seashell;
+	font-family: Helvetica;
+	margin: 0;
 }
 /* ========= Header Section  =============*/
 #header {
-	background-color: tomato;
 	height: 69px;
 	border-bottom: 1px solid seashell;
 	position: fixed;
+	top: 0;
 	width: 100%;
 }
 li {
 	display: inline-block;
 	list-style: none;
+	margin-left: 15px;
+	text-decoration: underline;
 }
 nav {
 	display: inline-block;
+	position: absolute;
+	right: 10px;
 }
 img {
 	display: inline-block;
 	height: 50px;
 	width: auto;
+	position: absolute;
+	left: 10px;
+	top: 10px;
 }
