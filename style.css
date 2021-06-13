@@ -33,3 +33,19 @@ img {
 	left: 10px;
 	top: 10px;
 }
+/* ========= Mission Section  =============*/
+#mission {
+	background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg');
+	height: 800px;
+	width: 1450px;
+	background-repeat: no-repeat;
+	background-size: 1450px;
+	margin: 70px auto 0 auto;
+}
+.blackbg {
+	background: black;
+	text-align: center;
+	width: 1450px;
+	position: absolute;
+	top: 400px;
+}
