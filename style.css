@@ -1,3 +1,23 @@
 body {
 	background-color: slateblue;
 }
+/* ========= Header Section  =============*/
+#header {
+	background-color: tomato;
+	height: 69px;
+	border-bottom: 1px solid seashell;
+	position: fixed;
+	width: 100%;
+}
+li {
+	display: inline-block;
+	list-style: none;
+}
+nav {
+	display: inline-block;
+}
+img {
+	display: inline-block;
+	height: 50px;
+	width: auto;
+}
