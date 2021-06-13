@@ -4,6 +4,7 @@ body {
 	color: seashell;
 	font-family: Helvetica;
 	margin: 0;
+	opacity: 0.9;
 }
 /* ========= Header Section  =============*/
 #header {
