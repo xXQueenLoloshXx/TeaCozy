@@ -60,3 +60,23 @@ li {
 .blackbg h2 {
 	margin-top: 10px;
 }
+
+.container {
+	max-width: 1000px;
+	height: auto;
+	margin: 0 auto;
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.featrue-container img {
+	width: 300px;
+	height: 200px;
+	margin-bottom: 0;
+	padding: 10px 10px;
+}
+.featrue-container h4 {
+	margin-top: 0;
+}
