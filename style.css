@@ -80,3 +80,34 @@ li {
 .featrue-container h4 {
 	margin-top: 0;
 }
+
+.banner {
+	height: 500px;
+	max-width: 1200px;
+	margin: 40px auto auto auto;
+	padding-top: 15px;
+	background-image: url('https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.text-top {
+	font-size: 43px;
+	font-weight: bold;
+}
+
+.box-container {
+	max-width: 1050px;
+	margin: 15px auto auto auto;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.box {
+	height: 300px;
+	padding: 20px;
+	flex-basis: 30%;
+	box-sizing: border-box;
+	background-color: black;
+	opacity: 0.8;
+}
