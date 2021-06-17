@@ -111,3 +111,14 @@ li {
 	background-color: black;
 	opacity: 0.8;
 }
+
+.contact {
+	margin: auto;
+	display: block;
+	height: 200px;
+}
+
+footer {
+	text-align: left;
+	padding-left: 20px;
+}
